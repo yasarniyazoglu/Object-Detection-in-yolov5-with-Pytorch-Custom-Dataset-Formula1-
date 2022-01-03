@@ -1,3 +1,11 @@
+Data- https://drive.google.com/file/d/1m2k5qhgbCk2IYjdlfESbPlACEyvYFX7U/view?usp=sharing
+
+
+
+Weights - https://drive.google.com/file/d/12e3yFgDiKz4IeWy1rz1bYpYQPvBJ1MmT/view?usp=sharing
+
+
+
 <div align="center">
 <p>
 <a align="left" href="https://ultralytics.com/yolov5" target="_blank">
